@@ -1,10 +1,10 @@
 #   Welcome to my profile :anger:
 ##      My name is Daniil.
 Full-stack developer, UI UX engineer, ChatGPT Master :wink:
-
+![gif](https://github.com/Focsterrr/Focsterrr/blob/main/garden-of-words-anime.gif)
 * ✉️  You can contact me at [mr.gipl@mail.ru](mailto:mr.gipl@mail.ru), tg:https://t.me/focsterrr
 * 🧠  I'm learning CIT KAI 
-![gif](https://media1.tenor.com/m/eawU1m28QAYAAAAd/garden-of-words-anime.gif)
+
 
 ## Languages and Tools
 CORE:
